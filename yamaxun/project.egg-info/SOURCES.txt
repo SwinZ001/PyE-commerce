@@ -1,0 +1,17 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+yamaxun/__init__.py
+yamaxun/items.py
+yamaxun/middlewares.py
+yamaxun/mysqlTest.py
+yamaxun/pipelines.py
+yamaxun/settings.py
+yamaxun/spiders/Kshou.py
+yamaxun/spiders/__init__.py
+yamaxun/spiders/aliexpress.py
+yamaxun/spiders/amazon.py
+yamaxun/spiders/shopee.py
